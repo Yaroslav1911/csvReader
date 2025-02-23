@@ -42,14 +42,14 @@ You can check created container by running the command 'docker container ls'
 
 ## Now you need to choose which tool to use. It can be shell, or Git Bash, or Postman.
 
-> Open your cmd in project's root and run this:
-> 'curl -F "file=@src/test/resources/sampleTrades.csv" http://localhost:8080/api/v1/enrich' 
+Open your cmd in project's root and run this:
+```
+'curl -F "file=@src/test/resources/sampleTrades.csv" http://localhost:8080/api/v1/enrich' 
+```
+'sampleTrades.csv' is the file that exists. It can be changed to another one with relevant fields.
 
->  'sampleTrades.csv' is the file that exists. It can be changed to another one with relevant fields.
+Done.
 
-> Done.
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 About API:
