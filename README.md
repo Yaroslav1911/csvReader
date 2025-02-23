@@ -1,7 +1,7 @@
 ### Step 1
 
 Hi, to run this app first thing you need to do is install Docker tools.
-If you already have it, skip this part;
+If you already have it, skip this part:
 
 > Register to hub.docker.com
 > Install Docker Desktop via chocolatey PM (https://community.chocolatey.org/packages/docker-desktop) (it is not needed to install this package for linux)
