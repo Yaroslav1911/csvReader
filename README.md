@@ -56,3 +56,5 @@ Done.
 >    - I'm pretty shure I can make it read JSON & XML files(and other additional tasks too),
 >     but I've already lost a lot of time;
 >    - and also, I think with correct multithread implementation it will be even faster. 
+
+![testScreen](https://github.com/user-attachments/assets/331466fb-8263-4cdf-9002-c8f869b35c6e)
