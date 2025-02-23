@@ -14,12 +14,12 @@ Install docker-cli
 `choco install docker-cli`
 To install Docker on Ubuntu, see: (https://docs.docker.com/engine/install/ubuntu/) 
 
-> ### Post installation. Remove needs of root privileges (linux only)
-> To create the docker group and add your user:
+### Post installation. Remove needs of root privileges (linux only)
+To create the docker group and add your user:
 
-> Create the docker group. 'sudo groupadd docker'
-> Add your user to the docker group. 'sudo usermod -aG docker $USER'
-> Log out and log back in so that your group membership is re-evaluated.
+Create the docker group. 'sudo groupadd docker'
+Add your user to the docker group. 'sudo usermod -aG docker $USER'
+Log out and log back in so that your group membership is re-evaluated.
 
 ### Step 2
 
