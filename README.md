@@ -40,7 +40,7 @@ You can check created container by running the command 'docker container ls'
 
 ### Step 3
 
-## Now you need to choose which tool to use. It can be shell, or Git Bash, or Postman.
+## Now run the app, and choose which tool to use. It can be shell, or Git Bash, or Postman.
 
 Open your cmd in project's root and run this:
 ```
