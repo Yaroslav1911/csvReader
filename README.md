@@ -50,11 +50,9 @@ Open your cmd in project's root and run this:
 
 Done.
 
-
-
-About API:
-    - application reads +-5000 lines per minute;
-    - it will read large sized file, but it will take some time;
-    - I'm pretty shure I can make it read JSON & XML files(and other additional tasks too),
-     but I've already lost a lot of time;
-    - and also, I think with correct multithread implementation it will be even faster. 
+> About API:
+>    - application reads +-5000 lines per minute;
+>    - it will read large sized file, but it will take some time;
+>    - I'm pretty shure I can make it read JSON & XML files(and other additional tasks too),
+>     but I've already lost a lot of time;
+>    - and also, I think with correct multithread implementation it will be even faster. 
