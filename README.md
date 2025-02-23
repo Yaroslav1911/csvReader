@@ -4,12 +4,13 @@ Hi, to run this app first thing you need to do is install Docker tools.
 If you already have it, skip this part:
 
 > Register to hub.docker.com
-> Install Docker Desktop via chocolatey PM (https://community.chocolatey.org/packages/docker-desktop) (it is not needed to install this package for linux)
-> choco install docker-desktop (Windows)
+> Install Docker Desktop via chocolatey PM
+> (https://community.chocolatey.org/packages/docker-desktop) (it is not needed to install this package for linux)
+> `choco install docker-desktop (Windows)`
 > Install WSL (https://community.chocolatey.org/packages/wsl) it is not needed to install this package for linux
-> choco install wsl (Windows)
+> `choco install wsl (Windows)`
 > Install docker-cli (https://community.chocolatey.org/packages/docker-cli)
-> choco install docker-cli
+> `choco install docker-cli`
 > To install Docker on Ubuntu, see: (https://docs.docker.com/engine/install/ubuntu/) 
 
 > ### Post installation. Remove needs of root privileges (linux only)
