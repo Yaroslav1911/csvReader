@@ -31,10 +31,10 @@ Log out and log back in so that your group membership is re-evaluated.
 
 When you copy the repo, launch a cmd from '/docker' dir and run next commands:  
 
-# create docker image
-'docker image build -t local/postgres:15.5-alpine3.19 . #-f .\Dockerfile .'
-# create container, 'postgres_server' can be changed on what ever you want
-'docker container run --name postgres_server -p 5432:5432 -d local/postgres:15.5-alpine3.19'
+## create docker image
+```docker image build -t local/postgres:15.5-alpine3.19 . #-f .\Dockerfile .```
+## create container, 'postgres_server' can be changed on what ever you want
+```docker container run --name postgres_server -p 5432:5432 -d local/postgres:15.5-alpine3.19```
 
 You can check created container by running the command 'docker container ls'
 
