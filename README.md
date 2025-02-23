@@ -7,11 +7,11 @@ If you already have it, skip this part:
 Register to hub.docker.com 
 Install Docker Desktop via chocolatey PM
 (it is not needed to install this package for linux)
-<p>`choco install docker-desktop` (Windows)</p>
+<p>choco install docker-desktop (Windows)</p>
 Install WSL (it is not needed to install this package for linux)
-`choco install wsl` (Windows)
+<p>`choco install wsl` (Windows)</p>
 Install docker-cli
-`choco install docker-cli`
+<p>`choco install docker-cli`</p>
 To install Docker on Ubuntu, see: (https://docs.docker.com/engine/install/ubuntu/) 
 
 ### Post installation. Remove needs of root privileges (linux only)
