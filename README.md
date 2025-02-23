@@ -3,6 +3,7 @@
 Hi, to run this app first thing you need to do is install Docker tools.
 If you already have it, skip this part:
 
+~~~~~~~
 Register to hub.docker.com 
 Install Docker Desktop via chocolatey PM
 (it is not needed to install this package for linux)
@@ -19,7 +20,7 @@ To install Docker on Ubuntu, see: (https://docs.docker.com/engine/install/ubuntu
 > Create the docker group. 'sudo groupadd docker'
 > Add your user to the docker group. 'sudo usermod -aG docker $USER'
 > Log out and log back in so that your group membership is re-evaluated.
-
+~~~~~~~
 ### Step 2
 
 When you copy the repo, launch a cmd from '/docker' dir and run next commands:  
